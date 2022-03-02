@@ -1,7 +1,7 @@
 
 ### Installation
 
-You can visit website from here[color generator](https://colorcreatorreact.netlify.app/)
+You can visit website from here [color generator](https://colorcreatorreact.netlify.app/)
 ___
 **Clone the project**
 ```
