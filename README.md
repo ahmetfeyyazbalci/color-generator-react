@@ -5,7 +5,7 @@ You can visit website from here [color generator](https://colorcreatorreact.netl
 ___
 **Clone the project**
 ```
- https://github.com/ahmetfuatbalci/color-generator-app
+ https://github.com/feyyazbalci/color-generator-app
 ```
 
 
